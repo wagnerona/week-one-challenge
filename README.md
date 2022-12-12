@@ -9,9 +9,9 @@ In this challenge a marketing agency has given me the task to refactor an existi
 For this challenge I have taken updated the old html with non semantic elements "div" to follow a semantic html markup. I have also updated CSS selectors and consolidated similar elements to follow the semantic structure. 
 
 ## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+#AS A marketing agency
+#I WANT a codebase that follows accessibility standards
+#SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
@@ -36,7 +36,7 @@ The following image showed me the web application's appereance and functionality
 
 ## Link to my deployed website
 
-
+https://wagnerona.github.io/week-one-challenge/
 
 ## License
 
