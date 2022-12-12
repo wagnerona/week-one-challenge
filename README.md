@@ -10,7 +10,9 @@ For this challenge I have taken updated the old html with non semantic elements 
 
 ## User Story
 AS A marketing agency
+
 I WANT a codebase that follows accessibility standards
+
 SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
@@ -36,7 +38,7 @@ The following image showed me the web application's appereance and functionality
 
 ## Link to my deployed website
 
-
+https://wagnerona.github.io/week-one-challenge/
 
 ## License
 
